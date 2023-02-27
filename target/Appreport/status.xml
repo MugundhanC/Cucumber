@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="1.847">
+    <testcase classname="HMS Applogin" name="Check for Frontoffice  Addappointment" time="0.316">
+        <system-out><![CDATA[Given Enter Application url "http://triotend.com/tts/site/login"............passed
+When Username "triotend" password "triotend"................................passed
+And Click on Signin Button..................................................passed
+Then Check for AddAppointment...............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="HMS Applogin" name="Check for Frontofffice Phonecall logs" time="0.034">
+        <system-out><![CDATA[Given Enter Application url "http://triotend.com/tts/site/login"............passed
+When Username "triotend" password "triotend"................................passed
+And Click on Signin Button..................................................passed
+Then Check for Phonecall logs...............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="HMS Applogin" name="Check for Frontoffice Visitor book" time="0.047">
+        <system-out><![CDATA[Given Enter Application url "http://triotend.com/tts/site/login"............passed
+When Username "triotend" password "triotend"................................passed
+And Click on Signin Button..................................................passed
+Then Check for Visitor Book.................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
